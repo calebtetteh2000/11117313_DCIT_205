@@ -1,20 +1,113 @@
 <!DOCTYPE html>
     <head>
-        <title>My Website</title>
-
+        <meta name="viewport" content="with=device-width, initial-scale=1.0">
+        <title>Computer Science Department Website Design</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
     </head>
+    <header id="header1">
+        <div class="header-top">
+            <div class="container">
+                <div class="row text-center"></div>
+            </div>
+        </div>
+        <div class="container main-menu" style="margin-top: -70px; margin-left: 20px;">
+            <div class="row align-items-center justify-content-between d-flex" style="margin-top: 30px;">
+            <div id="logo">
+                <a href="index.html"> <img src="https://dcs.ug.edu.gh/img/comScience_logo.png" title style="width:250px;"></a>
+            </div>
+            </div>
+        </div>
+    </header>
+    
+      <body>
+       <section class="header">
+        <nav>
+            
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">FACULTY</a></li>
+                    <li><a href="">RESEARCH-GROUP</a></li>
+                    <li><a href="">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()" ></i>
+        </nav>
 
-    <!--Background colour-->
-      
-        <style>   
-            body {
-                background: #ADA996;  /* fallback for old browsers */
-                background: -webkit-linear-gradient(to right, #ADA996, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
-                background: linear-gradient(to right, #ADA996, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-            }
-        </style>
-            <header>
-                <img src="https://dcs.ug.edu.gh/img/comScience_logo.png" title style="width: 250px;">
-            </header>
-   
+        <div class="text-box">
+            <h1>YOUR GATEWAY TO WORLD CLASS <br> COMPUTER SCIENCE EDUCATION</h1> 
+            <a href="" class="hero-btn">Visit Us To Know More</a>
+        </div>
+       </section>
+
+        <section class="course">
+            <h1>Short Courses We Offer</h1>
+            <p>Our eight week intensive certificate course is open to senior high school graduates, tertiary students, school graduates, workers and the general public.</p>
+            <p>Evening and Weekend Sessions Only</p>
+
+            <div class="row">
+                <div class="column">
+                    <h3>Undergraduate Programmes</h3>
+                    <p>Open the door to sought-after technology careers with a world-class Bachelor of Science in Computer Science degree. 
+                        The Department offers two undergraduate degree programmes, Bachelor of Science in Computer Science Single-Major (3:2:1:1) and Major-Minor (3:2:2:1) as well as Bachelor of Science in Information Technology.</p>
+                </div>
+                <div class="column">
+                    <h3>MPhil and Msc Programmes</h3>
+                    <p>Embrace world class graduate education with unique blend of cutting-edge research and industry experience.
+                    The Department of Computer Science - University of Ghana currently runs Masters of Science (MSc.) in Computer Science and Master of Philosophy (MPhil.) in Computer Science.
+                        
+                    </p>
+                </div>
+                <div class="column">
+                    <h3>PhD Programmes</h3>
+                    <p>Our PhD's lead the effort to extend the boundaries of knowledge through quality and industry relevant research.
+                        Our doctoral programme is a full-time research programme with expected duration of 4-years. For the successful completion of this programme, a high level of commitment is required.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="facilities">
+             <h1>Our Facilities</h1>
+             <div class="row">
+                <div class="facilities-col">
+                    <img src="https://images.pexels.com/photos/5963140/pexels-photo-5963140.jpeg?auto=compress&cs=tinysrgb&w=1200">
+                    <div class="layer">
+                        <h3>Laboratory</h3>
+                    </div>
+                </div>
+                    <div class="facilities-col">
+                        <img src="https://images.pexels.com/photos/6334062/pexels-photo-6334062.jpeg?auto=compress&cs=tinysrgb&w=1200">
+                        <div class="layer">
+                            <h3>Library</h3>
+                        </div>
+                    </div>
+                        <div class="facilities-col">
+                            <img src="https://images.pexels.com/photos/1181360/pexels-photo-1181360.jpeg?auto=compress&cs=tinysrgb&w=1200">
+                            <div class="layer">
+                                <h3>Consulting Room</h3>
+                            </div>
+                        </div>
+                </div>
+        </section>
+
+
+<!--JS toggle menu -->
+       <script>
+        var navLinks = document.getElementById("navLinks"); 
+        function showMenu(){
+            navLinks.style.right = "0";
+        }
+        function hideMenu(){
+            navLinks.style.right = "-200px";
+        }
+       </script>
+
+        </body>
 </html>
