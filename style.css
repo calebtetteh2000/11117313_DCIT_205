@@ -156,7 +156,7 @@ nav .fa{
         display:block;
     }
     .nav-links{
-        position:relative;
+        position:absolute;
         background: rgb(245, 64, 51, 0.7);
         height: 100vh;
         width: 200px;
@@ -238,6 +238,7 @@ h3{
 }
 .facilities-col img{
     width: 100%;
+    display: block;
 }
 .layer{
     background: transparent;
@@ -260,4 +261,166 @@ h3{
     left: 50%;
     transform: translateX(-50%);
     position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+}
+.layer:hover h3{
+    bottom: 49%;
+    opacity: 1; 
+}
+.contact{
+    margin: 100px auto;
+    width: 80%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvfqK_AQigXbMb4wOLgsN23YxUjgJM_eVASQ&usqp=CAU) ;
+    background-position: center;
+    background-size: cover; 
+    border-radius: 10px;
+    text-align: center;
+    padding: 100px 0; 
+}
+.contact h1{
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0; 
+}
+@media(max-width: 700px){
+    .cta h1{
+        font-size: 24px;
+    }
+}
+.foot-area{
+    width: 100% !important;
+    position: absolute;
+    background: linear-gradient(to right, #00093c, #2d0b00);
+    color: #fff;
+    padding: 100px 0 30px;
+    border-top-left-radius: 125px;
+    font-size: 13px;
+    line-height:  20px;
+}
+.section-gap{
+    padding-top: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.row{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap; 
+    align-items: flex-start;
+    justify-content: space-between ;
+}
+.col{
+flex-basis: 25%;
+padding: 10px;
+}
+.col h3{
+    width: fit-content;
+    margin-bottom: 40px;
+    position: relative;
+}
+.email-id{
+     width: fit-content;
+     border-bottom: 1px solid #ccc;
+     margin: 20px 0;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 12px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+form{
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+}
+form .fa-regular{
+font-size: 18px;
+margin-right: 10px;
+}
+form input{
+     width: 100%;
+     background: transparent;
+     color: #ccc;
+     border: 0;
+     outline: none; 
+}
+form button{
+    background: transparent;
+    border: 0;
+    outline: none;
+    cursor: pointer; 
+}
+form button .fa-solid{
+    font-size: 16px;
+    color:  #ccc;
+}
+.social-icons .fa-brands{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px; 
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    margin-right: 15px;
+    cursor: pointer;
+}
+hr{
+    width: 90%;
+    border: 0;
+    border-bottom: 1px solid  #ccc;
+    margin: 20px auto;
+}
+.copyright{
+    text-align: center;
+}
+.underline{
+    width: 100%;
+    height: 5px;
+    background: #767676;
+    border-radius: 3px;
+    position: absolute;
+    top: 25px;
+    left: 0;
+    overflow: hidden ;
+}
+.underline span{
+    width: 15px;
+    height: 100%; 
+    background: #fff;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 10px;
+    animation: moving 2s linear infinite ;
+}
+@keyframes moving { 
+    0% {
+        left: -20px;
+    }
+    100% {
+        left: 100% ;
+    }
+}
+@media (max-width: 700px){
+    footer{
+        bottom: unset ;
+    }
+    .col{
+        flex-basis: 100%;
+        }
+        .col h3{
+            width: fit-content;
+            margin-bottom: 40px;
+            position: relative;
+        }
 }
