@@ -604,3 +604,39 @@ hr{
         font-size: 24px;
     }
 }
+.service-cont{
+    width: 100%;
+    height: 100vh;
+    padding: 0 8%;
+}
+.service-row{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 170px;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    justify-items: stretch;
+}
+.upcoming-events-area{
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
+}
+.events-container{
+    display: flex;
+    flex-direction: row;
+    width: 65%;
+    align-self: center;
+    padding-left: 15px;
+}
+.event-image{
+    width: 50%;
+}
+.event-image img{
+    width: 100%;
+    height: auto;
+}
+.event-content h1{
+    font-size: 36px;
+}
