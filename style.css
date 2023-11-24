@@ -640,3 +640,16 @@ hr{
 .event-content h1{
     font-size: 36px;
 }
+.hod-col{
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+.hod-col img{
+    width: 100%;
+}
+.hod-col h1{
+    padding: 0%;
+}
+.hod-col p{
+   padding:15px 0 25px;
+}
