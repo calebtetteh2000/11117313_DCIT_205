@@ -13,13 +13,14 @@ ID: 11117313<br>
   <h2>CONCLUSION</h2>
 <p>This project has taught me how github works and how to link it to vcode and also some tags in html i was not familiar with. Overall, this project has taught me to be creative in solving problems and applying new technologies to projects given to me.</p>
 <p>Below are the screenshots of the pages</p>
-<img width="1470" alt="Screenshot 2023-11-26 at 5 30 42 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/535c34d3-4945-41ff-8a46-72889206ebbf">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 27 58 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/b6dd001f-d187-484a-9eca-6c6fe73d6890">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 27 42 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/5d19bdaa-be25-4d3f-8b8c-093f39d9a941">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 27 21 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/f9575585-30be-4a88-ac98-2fa768e8329a">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 35 19 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/4514083f-d396-4f44-955e-7d645e3aabe5">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 34 56 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/e4456c71-4bf1-45e8-bad3-c92db094426d">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 31 30 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/c02c810c-9ae4-454a-9a4e-51c48779d3ea">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 31 19 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/9d53c98e-6570-4de6-8946-c4298a7a850c">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 31 06 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/b082e1bc-7b30-4197-a9f4-f588aea7ff3a">
-<img width="1470" alt="Screenshot 2023-11-26 at 5 34 29 PM" src="https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/15b7997d-7f85-44b2-b878-6330171920a4">
+![Screenshot 2023-11-28 at 22-03-15 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/c974dcb0-30b6-4b6f-a386-3317bacd091a)
+![Uploading Screenshot 2023-11-28 at 22-03-44 Computer Science Department Website Design.png…]()
+![Screenshot 2023-11-28 at 22-03-55 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/382d9e11-673c-4807-843b-90d0b7f8f469)
+![Screenshot 2023-11-28 at 22-04-07 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/f5b03dd5-721c-4e26-9186-84baded06438)
+![Screenshot 2023-11-28 at 22-04-28 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/529dcbe0-d304-4a6d-a9a9-d93928b75342)
+![Screenshot 2023-11-28 at 22-05-12 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/91535bd2-c720-40ca-8ef7-d20002811148)
+![Screenshot 2023-11-28 at 22-06-30 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/76407078-acb2-4e95-83ff-8a305cc7bd42)
+![Screenshot 2023-11-28 at 22-07-05 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/a497876f-2b63-43b5-b835-2b8e4401f209)
+![Screenshot 2023-11-28 at 22-08-32 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/2ad56933-2444-4792-b835-726f56f6302c)
+![Screenshot 2023-11-28 at 22-12-11 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/e6b01d6c-fce2-45f1-9c0b-a79d1beb42a9)
+
