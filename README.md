@@ -13,14 +13,14 @@ ID: 11117313<br>
   <h2>CONCLUSION</h2>
 <p>This project has taught me how github works and how to link it to vcode and also some tags in html i was not familiar with. Overall, this project has taught me to be creative in solving problems and applying new technologies to projects given to me.</p>
 <p>Below are the screenshots of the pages</p>
-![Screenshot 2023-11-28 at 22-03-15 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/c974dcb0-30b6-4b6f-a386-3317bacd091a)
-![Uploading Screenshot 2023-11-28 at 22-03-44 Computer Science Department Website Design.png…]()
-![Screenshot 2023-11-28 at 22-03-55 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/382d9e11-673c-4807-843b-90d0b7f8f469)
-![Screenshot 2023-11-28 at 22-04-07 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/f5b03dd5-721c-4e26-9186-84baded06438)
-![Screenshot 2023-11-28 at 22-04-28 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/529dcbe0-d304-4a6d-a9a9-d93928b75342)
-![Screenshot 2023-11-28 at 22-05-12 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/91535bd2-c720-40ca-8ef7-d20002811148)
-![Screenshot 2023-11-28 at 22-06-30 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/76407078-acb2-4e95-83ff-8a305cc7bd42)
-![Screenshot 2023-11-28 at 22-07-05 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/a497876f-2b63-43b5-b835-2b8e4401f209)
-![Screenshot 2023-11-28 at 22-08-32 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/2ad56933-2444-4792-b835-726f56f6302c)
-![Screenshot 2023-11-28 at 22-12-11 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/e6b01d6c-fce2-45f1-9c0b-a79d1beb42a9)
+![Screenshot 2023-11-28 at 22-03-15 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/1668ef0f-2a6c-4cae-b361-80118a08fb5f)
+![Screenshot 2023-11-28 at 22-03-44 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/8a0abe08-0bbb-4a23-a0e6-ba2e49dfac84)
+![Screenshot 2023-11-28 at 22-03-55 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/8150e897-20c6-4305-a0d4-daa81fb1609b)
+![Screenshot 2023-11-28 at 22-04-07 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/4e54fd76-1a99-406c-a5b8-def3bb11395d)
+![Screenshot 2023-11-28 at 22-04-28 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/64c15ce2-830c-439d-be85-743a8eeed75c)
+![Screenshot 2023-11-28 at 22-05-12 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/e4900284-e59c-4444-b239-e975d9ad813d)
+![Screenshot 2023-11-28 at 22-06-30 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/ed5732e4-3917-4f3d-b838-0a4e3be37b41)
+![Screenshot 2023-11-28 at 22-07-05 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/568adb5e-262c-4f34-8dc2-674a6c5906f8)
+![Screenshot 2023-11-28 at 22-08-32 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/288e7dcb-5f33-4572-821a-9d7620ce43f9)
+![Screenshot 2023-11-28 at 22-12-11 Computer Science Department Website Design](https://github.com/calebtetteh2000/11117313_DCIT_205/assets/150846386/66a2ce2e-0f5c-4d3e-bbb8-4a9b223e9e3f)
 
